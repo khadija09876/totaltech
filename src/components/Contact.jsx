@@ -102,7 +102,7 @@ export default function Contact() {
                 <Phone className="w-4 h-4" />
               </div>
               <h3 className="text-[10px] font-extrabold uppercase tracking-wider text-slate-400 mb-0.5">{t.cards[0].title}</h3>
-              <p className="text-sm font-black text-slate-900 mb-1" dir="ltr">+966 50 763 5181</p>
+              <p className="text-sm font-black text-slate-900 mb-1" dir="ltr">+1234567890</p>
               <p className="text-[11px] text-slate-500 mb-3">{t.cards[0].desc}</p>
             </div>
             <div>
